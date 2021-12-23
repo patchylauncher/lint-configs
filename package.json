@@ -1,9 +1,8 @@
 {
-  "name": "@patchylauncher/prettier-config",
-  "version": "1.1.1",
-  "description": "PatchyLauncher prettier global config",
-  "main": "index.json",
-  "repository": "git@github.com:patchylauncher/prettier-config.git",
+  "name": "@patchylauncher/lint-configs",
+  "version": "1.0.0",
+  "description": "PatchyLauncher lint configs",
+  "repository": "git@github.com:patchylauncher/lint-configs.git",
   "author": "Flleeppyy <flleeppyy@gmail.com>",
   "license": "MIT"
 }
