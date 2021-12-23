@@ -1,0 +1,9 @@
+{
+  "name": "@patchylauncher/prettier-config",
+  "version": "1.0.0",
+  "description": "PatchyLauncher prettier global config",
+  "main": "index.json",
+  "repository": "git@github.com:patchylauncher/prettier-config.git",
+  "author": "Flleeppyy <flleeppyy@gmail.com>",
+  "license": "MIT"
+}
